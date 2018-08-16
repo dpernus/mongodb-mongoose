@@ -1,2 +1,2 @@
-# mongodb-mongoose
-Example of mongoose with mlab database
+FCC Mongo & Mongoose Challenges
+===============================
